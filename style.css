@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(153, 152, 155);
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
+
+section {
+    width: 800px;
+    height: 1200px;
+    background-color: rgb(153, 152, 155);
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 12pt;
+}
+
+#porcentagens {
+    width: 200px;
+    margin: auto;
+}
+
+#voltar {
+    width: 200px;
+    margin: center;
+}
